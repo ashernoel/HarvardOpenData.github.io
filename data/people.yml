@@ -354,4 +354,11 @@ people:
         year: 2022
         bio: I'm a sophomore in Eliot concentrating in computer science. I'm originally from San Jose, CA, and I love music, dancing, and hiking!
         image: amy-jin.jpg
+    -   name: Asher Noel
+        email: ashernoel@college.harvard.edu
+        role: bootcamper
+        house: Straus
+        year: 2023
+        bio: I am a first-year intending to concentrate in Statistics and Computer Science. In my free time, I enjoy picking daffodils, reading without a pen, and walking late at night.
+        image: asher-noel.png
     
